@@ -1,5 +1,6 @@
-Name: Yaswanth Paruchuri
-Email: ypfm7@umsystem.edu
+Name: Tej Deep Parvatha Reddy 
+Email: tpgkd@umsystem.edu
 
-Partner Name: Tej Deep Parvatha Reddy 
-Email: tpgkd@umsystem.edu GithubLink : https://github.com/TejdeepP/WebProgrammingSpring2022/tree/main/WebPart/ICP6
+Partner Name: Yaswanth Paruchuri
+Email: ypfm7@umsystem.edu
+GithubLink : https://github.com/Yaswanthypfm7/WebDevCourse/tree/main/WebPart/ICP6
